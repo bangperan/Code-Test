@@ -167,6 +167,8 @@ public class EightQueens {
 
 	/* pre: list != null
 	   post: return true if c is in list
+	   asita
+	 */
 	*/
         private static boolean contains(char[] list, char c)
         {	assert ( list != null ) : "Violation of precondition: contains";
