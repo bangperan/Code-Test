@@ -167,7 +167,7 @@ public class EightQueens {
 
 	/* pre: list != null
 	   post: return true if c is in list
-	   asita
+	   as
 	 */
 	*/
         private static boolean contains(char[] list, char c)
